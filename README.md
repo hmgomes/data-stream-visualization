@@ -1,3 +1,11 @@
+## Update on 08 August, 2024
+Hi there, if you are interested in visualising data stream learning results, currently the best aapproach is to use CapyMOA
+https://github.com/adaptive-machine-learning/CapyMOA
+
+Particularly, the tutorials for CapyMOA include examples on how to visualize Classification, Regression, Prediction Intervals and more! 
+https://capymoa.org/tutorials.html
+
+
 # data-stream-visualization
 A simple python script to plot results overtime for a data stream marking drifts (both abrupt and gradual). 
 
